@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="diff_wheeled_smooth_ctrl" type="SmoothCtrlNode.py" name="smooth_ctrl"/>
+</launch>
